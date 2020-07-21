@@ -54,7 +54,7 @@ Haben wir es mit einer Person oder einer Organisation zu tun?
 
 Zu welcher politischen Partei gehört die Person?
 1 = CDU
-2 =CSU
+2 = CSU
 3 = SPD
 4 = Gruene
 5 = FDP
@@ -72,19 +72,19 @@ Gibt das Alter an:
 bezieht sich auf die Funktion innerhalb der Kommission: 
 
 A = Politik 
-B= Wirtschaft 
-C= Gewerkschaft
-D= Umwelt
-E= Regionen
-F= Wissenschaft
+B = Wirtschaft 
+C = Gewerkschaft
+D = Umwelt
+E = Regionen
+F = Wissenschaft
 
 **Position**
 
 Bezieht sich auf den Einfluss in der Kommission 
 
-1= kein Stimmrecht
-2= Mitglied
-3= Vorsitz
+1 = kein Stimmrecht
+2 = Mitglied
+3 = Vorsitz
 
 **State**
 
