@@ -1,10 +1,10 @@
 # PVLkohlekommission
 # Prüfungsvorleistung, Modul 226503 
 ## EDGE-Attribute
-id
+**id**
 (eindeutige Codierung des Knoten)
 codiert als Abkürzung der Namen mit drei oder vier Buchstaben zur Identifikation der Mitglieder der Kohlekommission. 
-To (belonging) 
+**To**  
 Politik (Poli)
 Verein (Vere)
 Verband (Verb)
@@ -26,9 +26,9 @@ Intensität der Beziehung; bzw. Einfluss
 3 = aktives Mandat / Ministeramt 
 
 ## NODE-Attribute
-id
+**id** 
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle Namen abgekürzt mit drei oder vier Buchstaben zu sehen.
-name
+**name**
 Die Namen der Mitglieder der Kohlekommission. 
 sex
 Bitte geben Sie ihr Geschlecht an:
