@@ -2,24 +2,27 @@
 # Prüfungsvorleistung, Modul 226503 
 ## EDGE-Attribute
 **id**
+
 (eindeutige Codierung des Knoten)
 codiert als Abkürzung der Namen mit drei oder vier Buchstaben zur Identifikation der Mitglieder der Kohlekommission. 
+
 **To**  
-Politik (Poli)
-Verein (Vere)
-Verband (Verb)
-Gewerkschaft (Gewe)
-Umweltschutz (Umwe)
-Energieunternehmen (Ener)
-Industrie (Indu)
-Wissenschaft (Wiss)
-Regionalvertreter (Regi)
-CDU
-CSU
-SPD
-GRU
-FDP
-weight
+Politik (Poli),
+Verein (Vere),
+Verband (Verb),
+Gewerkschaft (Gewe),
+Umweltschutz (Umwe),
+Energieunternehmen (Ener),
+Industrie (Indu),
+Wissenschaft (Wiss),
+Regionalvertreter (Regi),
+CDU,
+CSU,
+SPD,
+GRU,
+FDP,
+
+**weight**
 Intensität der Beziehung; bzw. Einfluss 
 1 = ohne Stimmrecht / Parteimitglied / ehemaliges Mandat 
 2 = Stimmrecht / aktives Mandat
