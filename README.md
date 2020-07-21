@@ -7,20 +7,20 @@
 codiert als Abkürzung der Namen mit drei oder vier Buchstaben zur Identifikation der Mitglieder der Kohlekommission. 
 
 **To**  
-- Politik (Poli),
-- Verein (Vere),
-Verband (Verb),
-Gewerkschaft (Gewe),
-Umweltschutz (Umwe),
-Energieunternehmen (Ener),
-Industrie (Indu),
-Wissenschaft (Wiss),
-Regionalvertreter (Regi),
-CDU,
-CSU,
-SPD,
-GRU,
-FDP,
+- Politik (Poli)
+- Verein (Vere)
+- Verband (Verb)
+- Gewerkschaft (Gewe)
+- Umweltschutz (Umwe)
+- Energieunternehmen (Ener)
+- Industrie (Indu)
+- Wissenschaft (Wiss)
+- Regionalvertreter (Regi)
+- CDU
+- CSU
+- SPD
+- GRU
+- FDP
 
 **weight**
 Intensität der Beziehung; bzw. Einfluss 
