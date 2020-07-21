@@ -40,8 +40,8 @@ Die Namen der Mitglieder der Kohlekommission.
 **sex**
 
 Bitte geben Sie ihr Geschlecht an:
-1= weiblich
-2= männlich
+1 = weiblich
+2 = männlich
 3 = divers
 
 **type**
@@ -54,10 +54,10 @@ Haben wir es mit einer Person oder einer Organisation zu tun?
 
 Zu welcher politischen Partei gehört die Person?
 1 = CDU
-2=CSU
-3=SPD
-4=Gruene
-5=FDP
+2 =CSU
+3 = SPD
+4 = Gruene
+5 = FDP
 
 **age**
 
@@ -70,6 +70,7 @@ Gibt das Alter an:
 **representation**
 
 bezieht sich auf die Funktion innerhalb der Kommission: 
+
 A = Politik 
 B= Wirtschaft 
 C= Gewerkschaft
@@ -80,6 +81,7 @@ F= Wissenschaft
 **Position**
 
 Bezieht sich auf den Einfluss in der Kommission 
+
 1= kein Stimmrecht
 2= Mitglied
 3= Vorsitz
@@ -87,19 +89,20 @@ Bezieht sich auf den Einfluss in der Kommission
 **State**
 
 Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder 
-BB= Brandenburg
-BW= Baden-Württemberg
-BA= Bayern
-BE= Berlin
-HB= Bremen
-HH= Hamburg
-HE= Hessen
-MV= Mecklenburg-Vorpommern
-NI= Niedersachsen
-NW= Nordrhein-Westfalen
-RP= Rheinland-Pfalz
-SL= Saarland
-SN= Sachsen
+
+BB = Brandenburg
+BW = Baden-Württemberg
+BA = Bayern
+BE = Berlin
+HB = Bremen
+HH = Hamburg
+HE = Hessen
+MV = Mecklenburg-Vorpommern
+NI = Niedersachsen
+NW = Nordrhein-Westfalen
+RP = Rheinland-Pfalz
+SL = Saarland
+SN = Sachsen
 ST= Sachsen-Anhalt
 SH= Schleswig-Holstein
 TH= Thüringen
