@@ -40,8 +40,8 @@ Die Namen der Mitglieder der Kohlekommission.
 **sex**
 
 Bitte geben Sie ihr Geschlecht an:
-1 = weiblich
-2 = männlich
+1= weiblich
+2= männlich
 3 = divers
 
 **type**
@@ -53,7 +53,7 @@ Haben wir es mit einer Person oder einer Organisation zu tun?
 **party**
 
 Zu welcher politischen Partei gehört die Person?
-1=CDU
+1 = CDU
 2=CSU
 3=SPD
 4=Gruene
