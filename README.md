@@ -7,8 +7,8 @@
 codiert als Abkürzung der Namen mit drei oder vier Buchstaben zur Identifikation der Mitglieder der Kohlekommission. 
 
 **To**  
-Politik (Poli),
-Verein (Vere),
+- Politik (Poli),
+- Verein (Vere),
 Verband (Verb),
 Gewerkschaft (Gewe),
 Umweltschutz (Umwe),
