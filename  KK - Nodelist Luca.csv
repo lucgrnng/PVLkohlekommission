@@ -1,0 +1,47 @@
+Nodelist ;;;;;;;;
+;;;;;;;;
+id;name;sex;type;party;age;representation;position ;state
+PLA;Platzeck;2;0;3;4;A;3;BB
+POF;Pofalla;2;0;1;4;B;3;BE
+PRA;Praetorius;1;0;NA;3;D;3;BE
+TIL;Tillich;2;0;1;4;A;3;SN
+HAS;Hasselfeldt;1;0;2;4;A;2;BE
+KAM;Kampeter;2;0;1;3;C;2;BE
+KAP;Kapferer;2;0;5;3;D;2;BE
+KEM;Kempf;2;0;NA ;4;B;2;BE
+NEM;Nemat;1;0;NA ;3;B;2;NW
+REI;Reiche;1;0;1;2;B;2;BE
+ROE;Röstel;1;0;4;3;B;2;SN
+SCHW;Schweitzer;2;0;NA;3;B;2;BE
+GRO;Grothus;1;0;NA;3;D;2;NW
+WOD;Wodtke;1;0;1;4;D;2;BB
+HER;Herntier;1;0;NA;4;E;2;BB
+KRE;Kreuzberg;2;0;1;4;A;2;NW
+PRI;Priggen;2;0;4;4;A;2;NW
+VAS;Vassiliadis;2;0;3;3;C;2;NW
+SCHE;Scheidt;2;0;3;3;B;2;RP
+KOE;Körzell;2;0;3;3;C;2;HE
+KAI;Kaiser;2;0;NA;3;D;2;HH
+WEI;Weiger;2;0;NA;4;D;2;BY
+NIE;Niebert;2;0;NA;2;D;2;NI
+SCHO;Schönefeld (zuvor Allmendinger);1;0;NA;4;F;2;BY
+MAT;Matthes;2;0;NA;3;F;2;BW
+SCHH;Schellnhuber;2;0;NA;4;F;2;BB
+NIEB;Niebuhr;1;0;NA;3;F;2;SH
+WEH;Wehrspohn;2;0;NA;3;F;2;SN
+LAE;Lämmel;2;0;1;4;A;1;SN
+LEN;Lenz;2;0;2;1;D;1;BY
+MIE;Miersch;2;0;3;3;A;1;NI
+1;Politik;NA;1;NA;NA;;NA;NA
+2;Verband;NA;1;NA;NA;;NA;NA
+3;Gewerkschaft;NA;1;NA;NA;;NA;NA
+4;Umweltschutz;NA;1;NA;NA;;NA;NA
+5;Industrie;NA;1;NA;NA;;NA;NA
+6;Energieunternehmen;NA;1;NA;NA;;NA;NA
+7;Wissenschaft;NA;1;NA;NA;;NA;NA
+8;Regionalvertreter;NA;1;NA;NA;;NA;NA
+9;CDU;NA;1;1;NA;;NA;NA
+10;CSU;NA;1;2;NA;;NA;NA
+11;SPD;NA;1;3;NA;;NA;NA
+12;Die Grünen;NA;1;4;NA;;NA;NA
+13;FDP;NA;1;5;NA;;NA;NA
